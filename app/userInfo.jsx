@@ -2,12 +2,12 @@ import React from "react";
 
 const UserInfo =()=>{
     return(
-        <div>
+    <div>
         มหาวิทยาลัยราชภัฏศรีสะเกษ<br/>
         319 ไทยพันทา<br/>
         อ.เมือง<br/>
         จ.ศรีสะเกษ<br/>
-        </div>
+    </div>
     );
 }
 export default UserInfo;
